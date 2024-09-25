@@ -2,11 +2,6 @@
 ## [Assignment # LAB03]
 ## [Submission date: 09/24/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Izail Chamberlain
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* most of what I do
