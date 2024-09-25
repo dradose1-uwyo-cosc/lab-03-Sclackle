@@ -57,8 +57,8 @@ print(states)
 states.sort()
 print(states)
 #Permanently sort your list in reverse order, printing it out
-states = ['California','Maine','Washington','Colorado','Wyoming']
+states.sort(reverse=True)
 print(states)
 #Using the reverse method reverse the list and print it
-states.sort(reverse=True)
+states.reverse()
 print(states)
